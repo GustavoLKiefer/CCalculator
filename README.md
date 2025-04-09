@@ -15,9 +15,12 @@ You need to compile the code or use an online compiler like https://www.onlinegd
    gcc calculator.c -o calculator -lm
 
 2. Execute:
-./calculator (Linux/MAC)
-
+```bash
+   ./calculator (Linux/MAC)
+```
+```bash
 calculator.exe (Windows)
+```
 
 3. Follow instructions in the terminal.
 
