@@ -19,7 +19,7 @@ You need to compile the code or use an online compiler like https://www.onlinegd
    ./calculator (Linux/MAC)
 ```
 ```bash
-calculator.exe (Windows)
+   calculator.exe (Windows)
 ```
 
 3. Follow instructions in the terminal.
