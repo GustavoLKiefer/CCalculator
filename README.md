@@ -25,7 +25,6 @@ You need to compile the code or use an online compiler like https://www.onlinegd
 3. Follow instructions in the terminal.
 
 Tecnologies used:
-C Language
-Math.c library
+C Language, math.c library
 
 ## Author: Gustavo Lorenzi Kiefer
